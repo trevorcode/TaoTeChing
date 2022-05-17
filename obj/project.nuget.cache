@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qo283I8cyBAGMGXBw+gJ3DJdSwR0qi7ZxH5U5H36SavjQgi7gRHVHFZsJOK98piZNMcmym2puCgpbFepuka5SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trevo\\source\\FSharpRepos\\projects\\TaoTeChing\\TaoTeChing.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trevo\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\trevo\\.nuget\\packages\\giraffe.viewengine\\1.4.0\\giraffe.viewengine.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

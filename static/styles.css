@@ -1,0 +1,40 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.mainContent {
+    margin: 0 auto;
+    max-width:980px;
+}
+
+article {
+    white-space: pre-wrap;
+    font-size:1.25rem;
+}
+
+.chapterList {
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+.chapterCard a {
+    font-weight:bold;
+    font-size:2rem;
+    color:#00000099;
+    text-decoration: none;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1/1;
+    background-color:lightblue;
+    margin:0.25rem;
+    padding:0.25rem;
+    width:3rem;
+    height:3rem;
+}
+
+.chapterCard a:hover {
+    color:#00000033;
+}
